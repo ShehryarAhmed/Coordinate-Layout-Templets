@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coordinate Layout_5</string>
+    <string name="data">yea. from the code. I have a cadview inside a linear layout. and within the cardview I have imageview and textview which I used an array to generate. so, my challenge is this: when I run the app on my phone in landscape mode, I still have the image and text occupy two columns as when I run it in portrait mode. So therefore, I have more space in landscape mode and I want to make use of the space by atleast allowing the image and text underneath the image to go across three columns. – Jhosuer Nov 4 \'15 at 13:39</string>
+</resources>
